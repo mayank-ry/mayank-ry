@@ -1,16 +1,32 @@
 ## Hi there 👋
+<h1 align="center">👋 Hello, I'm Mayank Rai</h1>
+<h3 align="center">Building Impactful Projects Globally 🌍</h3>
 
-<!--
-**mayank-ry/mayank-ry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate **Full Stack Developer** and **Hackathon Enthusiast** who loves to solve real-world problems using **Web, AI, and Cloud** technologies. I thrive on building scalable, innovative solutions with real impact.
+
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,ts,html,css,nodejs,express,nextjs,react,mongodb,mysql,git,github,vscode,bootstrap" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: mayank@example.com
+- 🔗 LinkedIn: [Mayank Rai](https://www.linkedin.com/in/yourprofile)
+- 💻 GitHub: [MayankRai](https://github.com/MayankRai)
+
+
+
