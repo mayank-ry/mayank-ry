@@ -23,9 +23,7 @@ I am a passionate **Full Stack Developer** and **Hackathon Enthusiast** who love
 
 ## 📫 Contact Me
 
-- 📧 Email: mayank@example.com
 - 🔗 LinkedIn: [Mayank Rai](https://www.linkedin.com/in/mayank-ry/)
-- 💻 GitHub: [MayankRai](https://github.com/MayankRai)
-
+- 💻 GitHub: [MayankRai](https://github.com/mayank-ry)
 
 
