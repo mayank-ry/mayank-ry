@@ -5,7 +5,9 @@
 
 ## 🚀 About Me
 
-I am a passionate **Full Stack Developer** and **Hackathon Enthusiast** who loves to solve real-world problems using **Web, AI, and Cloud** technologies. I thrive on building scalable, innovative solutions with real impact.
+I’m a **BTech Data Science student**, passionate about creating impactful software and solving real-world problems.  
+I love building products, participating in hackathons, and sharing knowledge on YouTube.  
+
 
 ---
 
