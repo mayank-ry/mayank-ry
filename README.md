@@ -13,7 +13,7 @@ I am a passionate **Full Stack Developer** and **Hackathon Enthusiast** who love
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,ts,html,css,nodejs,express,nextjs,react,mongodb,mysql,git,github,vscode,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,git,github,vscode" />
 </p>
 
 ---
