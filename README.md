@@ -28,10 +28,10 @@ I am a passionate **Full Stack Developer** and **Hackathon Enthusiast** who love
 
 
 
-- ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayankRai&show_icons=true&theme=radical)
+- ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank-ry&show_icons=true&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MayankRai)
-![GitHub Streak](https://streak-stats.demolab.com/?user=MayankRai)
+![Profile Views](https://komarev.com/ghpvc/?username=mayank-ry)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mayank-ry)
 
 
 
