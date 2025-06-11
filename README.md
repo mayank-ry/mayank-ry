@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">👋 Hello, I'm Mayank Rai</h1>
 <h3 align="center">Building Impactful Projects Globally 🌍</h3>
 
