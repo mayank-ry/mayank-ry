@@ -26,4 +26,7 @@ I am a passionate **Full Stack Developer** and **Hackathon Enthusiast** who love
 - 🔗 LinkedIn: [Mayank Rai](https://www.linkedin.com/in/mayank-ry/)
 - 💻 GitHub: [MayankRai](https://github.com/mayank-ry)
 
+- ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayankRai&show_icons=true&theme=radical)
+
+
 
