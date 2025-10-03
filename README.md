@@ -14,7 +14,7 @@ I love building products, participating in hackathons, and sharing knowledge on 
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,github,vscode,jupyternotebook" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,github,vscode,colab" />
 </p>
 
 ---
