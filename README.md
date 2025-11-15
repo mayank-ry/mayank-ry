@@ -12,10 +12,6 @@ I love building products, participating in hackathons, and sharing knowledge on 
 ---
 
 ### 💻 Skills & Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,github,vscode,numpy,pandas" />
-</p>
-
 ---
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -30,7 +26,9 @@ I love building products, participating in hackathons, and sharing knowledge on 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Data Science](https://img.shields.io/badge/Data%20Science-FF6F61?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML?style=for-the-badge&logo=html&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ---
 ## 🏆 Achievements
