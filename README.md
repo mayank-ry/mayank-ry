@@ -39,12 +39,11 @@ I love building products, participating in hackathons, and sharing knowledge on 
 
 - 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-ry/)
 
-- 💻 GitHub: ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]
+- 💻 GitHub: ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
 
 
-<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=mayank-ry)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mayank-ry)
 
