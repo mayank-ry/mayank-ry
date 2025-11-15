@@ -24,18 +24,13 @@ I love building products, participating in hackathons, and sharing knowledge on 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Data Science](https://img.shields.io/badge/Data%20Science-FF6F61?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-4B0082?style=for-the-badge)
-![Hackathon](https://img.shields.io/badge/Hackathon-008080?style=for-the-badge)
-![SIH](https://img.shields.io/badge/Smart%20India%20Hackathon-FF5733?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML?style=for-the-badge&logo=html&logoColor=white)
 
 ---
 ## 🏆 Achievements
