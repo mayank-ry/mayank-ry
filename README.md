@@ -37,8 +37,9 @@ I love building products, participating in hackathons, and sharing knowledge on 
 
 ## 📫 Contact Me
 
-- 🔗 LinkedIn: [Mayank Rai](https://www.linkedin.com/in/mayank-ry/)
-- 💻 GitHub: [MayankRai](https://github.com/mayank-ry)
+- 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-ry/)
+
+- 💻 GitHub: ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank-ry)
 
 
 
